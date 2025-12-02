@@ -312,12 +312,12 @@ export function ChatSession({
         ) : (
           <div className="flex flex-col items-center justify-center h-full">
             <p className="text-xl md:text-2xl px-2 font-semibold text-center mx-auto text-stone-500 dark:text-stone-400 tracking-wide">
-              Start Chatting with
+              Comoçe uma nova converça na
               <br />
               <span className="text-orange-500 text-2xl md:text-4xl">
-                Groq
+                WangaChat
               </span>{" "}
-              .AI Now!
+              .AI Agora!
             </p>
             <Image
               src={robo}
